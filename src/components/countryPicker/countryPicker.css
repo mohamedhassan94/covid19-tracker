@@ -1,0 +1,16 @@
+.select-country {
+    border-radius: 0px !important;
+};
+
+.select-country:focus {
+    outline: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.select-country option {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.4);
+};
+
+
