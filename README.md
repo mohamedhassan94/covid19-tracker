@@ -9,6 +9,8 @@ API: https://covid19.mathdro.id/api
 
 ## Dependencies
 
+**React.js**
+
 **Axios** for making HTTP requests.
 
 **Chart.js** for building the charts.
