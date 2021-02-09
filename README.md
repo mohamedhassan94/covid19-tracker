@@ -7,6 +7,8 @@ The charts and the statistics can be set based on a global basis or for a single
 
 API: https://covid19.mathdro.id/api
 
+### [LIVE LINK ➫](https://mohamedhassan-covid-19-tracker.netlify.app/)
+
 ## Dependencies
 
 **React.js**
